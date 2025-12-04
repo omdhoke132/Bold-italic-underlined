@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Styles</title>
+</head>
+<body>
+
+<p><b>This line is bold.</b></p>
+
+<p><i>This line is italic.</i></p>
+
+<p><u>This line is underlined.</u></p>
+
+</body>
+</html>
